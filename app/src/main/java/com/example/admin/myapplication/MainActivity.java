@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("dhvfghd","iduhfoudhfo"); Log.d("dhvfghd","iduhfoudhfo"); Log.d("dhvfghd","iduhfoudhfo"); Log.d("dhvfghd","iduhfoudhfo");
 //        https://github.com/shubham-tact/MyApplication.git
         Log.d("Test 2","iduhfoudhfo");
+        Log.d("Test 2","iduhfoudhfo");
 
     }
 }
